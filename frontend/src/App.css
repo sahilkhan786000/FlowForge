@@ -1,0 +1,33 @@
+/* frontend/src/App.css */  
+.App {  
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;  
+  height: 100vh;  
+  display: flex;  
+}  
+  
+.react-flow__controls {  
+  background: #ffffff;  
+  border: 1px solid #e5e7eb;  
+  border-radius: 8px;  
+}  
+  
+.react-flow__controls-button {  
+  background: #ffffff;  
+  border-bottom: 1px solid #e5e7eb;  
+  color: #6b7280;  
+}  
+  
+.react-flow__controls-button:hover {  
+  background: #f3f4f6;  
+  color: #1f2937;  
+}  
+  
+.react-flow__minimap {  
+  background: #ffffff;  
+  border: 1px solid #e5e7eb;  
+  border-radius: 8px;  
+}  
+  
+.react-flow__background {  
+  background-color: #f9fafb;  
+}
